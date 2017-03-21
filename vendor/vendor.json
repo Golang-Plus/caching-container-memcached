@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "1//T2ojE6/w/q474WexugA9i720=",
+			"path": "github.com/rainycape/memcache",
+			"revision": "1031fa0ce2f20c1c0e1e1b51951d8ea02c84fa05",
+			"revisionTime": "2015-06-22T16:05:59Z"
+		}
+	],
+	"rootPath": "github.com/golang-plus/caching-container-memcached"
+}
